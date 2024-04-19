@@ -1,0 +1,26 @@
+{
+  "name": "w-jsc-501-par-1-1-puissance4-enzo.sousa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d resources"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechWebAcademiePromo2025/W-JSC-501-PAR-1-1-puissance4-enzo.sousa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechWebAcademiePromo2025/W-JSC-501-PAR-1-1-puissance4-enzo.sousa/issues"
+  },
+  "homepage": "https://github.com/EpitechWebAcademiePromo2025/W-JSC-501-PAR-1-1-puissance4-enzo.sousa#readme",
+  "dependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0"
+  }
+}
